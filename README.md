@@ -4,7 +4,7 @@
 ## Steps For the Project
 
 
-### Requirements: 
+### 🔴Requirements: 
 
 
 Enviroment Path of **JAVA 8, Maven** must set for Spring Boot
@@ -17,7 +17,7 @@ Enviroment Path of **JAVA 8, Maven** must set for Spring Boot
 
 
 
-### Procedure:
+### 🔴Procedure:
 Download the project code and Unzip it.
 
 Open The **"Algodomain"** Folder in IntelliJ Idea
@@ -36,7 +36,7 @@ Right click on code and click on **"Run Application.main()"**
 
 
 
-### Usage:
+### 🔴Usage:
 
 this is a back end application for owner of the store. He can do CURD Operation.
 
